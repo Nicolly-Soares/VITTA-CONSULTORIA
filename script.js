@@ -1,6 +1,4 @@
 
-
-
 function downloadFile(key){
   if(!uploads[key])return;
 
